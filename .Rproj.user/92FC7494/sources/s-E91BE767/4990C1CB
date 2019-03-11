@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552322995271.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "339936481",
+    "id" : "4990C1CB",
+    "lastKnownWriteTime" : 1552323039,
+    "last_content_update" : 1552323039512,
+    "path" : "D:/R/R3-practice/2019-03-12.Rmd",
+    "project_path" : "2019-03-12.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
